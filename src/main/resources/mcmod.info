@@ -1,0 +1,19 @@
+[
+{
+  "modid": "toggletneak",
+  "name": "ToggleSneak",
+  "description": "ToggleSneak v3.1.1 - 1.12 compatible!!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["deeznueces"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["PlayerAPI"],
+  "dependencies": ["PlayerAPI"],
+  "dependants": [],
+  "useDependencyInformation": true
+}
+]
