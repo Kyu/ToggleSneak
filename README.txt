@@ -1,4 +1,6 @@
+Original Mod by Deez/ScrobDobbins up to 1.11
 
+Edited by me for 1.12
 
 
 -------------------------------------------
